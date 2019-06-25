@@ -95,6 +95,7 @@ nav[role=navigation] .nav-list a {
 /*- landing page -*/
 #home {
   background: #55aabb url(http://ccrissman.s3.amazonaws.com/images/l/argyle-blue.png) 0 0 repeat;
+  background-attachment: fixed;
   color: #fff;
   padding-top: 1.5em;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.7);
@@ -250,6 +251,7 @@ header[role="banner"] {
 /*- contact page -*/
 #contact {
   background: #ffd371 url(http://ccrissman.s3.amazonaws.com/images/l/argyle-gold.png) 0 0 repeat;
+  background-attachment: fixed;
 }
 
 form {
