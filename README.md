@@ -8,7 +8,7 @@ Welcome to my personal portfolio website!
 - **HTML** for the structure of the website
 - **CSS** for styling and layout
 - **JavaScript** for interactivity
-- **Jekyll#** framework for site generation
+- **Jekyll:** framework for site generation
 
 
 ## Project Structure
